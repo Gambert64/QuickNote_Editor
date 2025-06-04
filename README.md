@@ -1,6 +1,6 @@
-# TextBert - Simple Text Editor
+# QuickNote - Simple Text Editor
 
-TextBert is a simple lightweight text editor built with Python using CustomTkinter. It features a minimalistic interface with tab support, file operations, and essential text editing capabilities.
+QuickNote is a simple lightweight text editor built with Python using CustomTkinter. It features a minimalistic interface with tab support, file operations, and essential text editing capabilities.
 
 ## Features
 
